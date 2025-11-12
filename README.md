@@ -1,3 +1,13 @@
+### 📁 Dataset Source
+
+This project uses the **Financial Transactions Dataset for Fraud Detection** available on Kaggle:
+🔗 [Financial Transactions Dataset for Fraud Detection – Kaggle](https://www.kaggle.com/datasets/aryan208/financial-transactions-dataset-for-fraud-detection)
+
+
+---
+
+
+
 # 🕵️‍♂️ Fraud Detection Analysis
 
 ## 📘 Overview
@@ -101,4 +111,3 @@ The analysis is divided into **five high-impact business questions**, each suppo
 
 ---
 
-## 📂 Project Structure
